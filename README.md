@@ -6,4 +6,3 @@ You can run this projects's apk file on any android mobile phone and work on thi
 
 "# Prince_Binita" 
 "# Calculator_App" 
-"# CalculatorApp" 
